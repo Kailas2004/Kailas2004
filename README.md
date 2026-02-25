@@ -1,30 +1,21 @@
-```console
-> boot --profile kailas
-
-Initializing backend profile...
-Loading engineering modules...
-Applying reliability constraints...
-System ready.
-
-Run `help` to explore.
+```text
+booting kailas.profile ... done
 ```
 
-```console
-$ whoami
-Kailas Sajie
+# Kailas Sajie
 
-$ role
-Backend-focused Computer Science student (B.Tech, SRM Institute of Science and Technology)
+Backend-focused Computer Science student at SRM Institute of Science and Technology.
 
-$ specialization
-Java | Spring Boot | Reliability-first system design
+I build reliability-first backend systems in Java and Spring Boot, with a focus on correctness, state management, and failure safety.
 
-$ current_focus
+---
+
+## Focus Areas
+
 - Advanced Java (Collections, Concurrency, Internals)
-- Backend architecture & state management
+- Backend architecture & system design
 - Distributed systems fundamentals
-- DSA for product-based interviews (NeetCode pattern)
-```
+- DSA for product-based interviews
 
 ---
 
@@ -32,34 +23,29 @@ $ current_focus
 
 ### Payment Settlement Engine
 
-A production-inspired backend system that simulates financial settlement workflows with strong correctness guarantees.
+A production-inspired backend system that simulates financial settlement workflows with strong correctness guarantees:
 
-**Key characteristics:**
-
-- Idempotent settlement operations  
+- Idempotent operations  
 - Lock-safe state transitions  
-- Audit logging for every attempt  
+- Audit logging  
 - Retry-safe failure handling  
-- Role-governed operations  
-- Failure simulation & recovery patterns  
+- Failure simulation & recovery  
 
 Repository:  
 https://github.com/Kailas2004/settlement-engine
 
 ---
 
-## Engineering Principles
+## Engineering Approach
 
 - Correctness over cleverness  
 - Explicit state over hidden behavior  
 - Observability over assumption  
 - Simplicity over premature optimization  
 
-If a system cannot explain its own state, it is already fragile.
-
 ---
 
-## Connect
+## Contact
 
-LinkedIn: [Add Your LinkedIn URL]  
-Email: [Add Your Email]
+LinkedIn: [Your LinkedIn URL]  
+Email: [Your Email]
